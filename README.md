@@ -115,31 +115,14 @@ I specialize in building modern full-stack web applications using React, Node.js
 <tr>
 
 <td width="50%">
-<a href="https://github.com/yosuf-dev/PROJECT1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight"/>
-</a>
-</td>
-
-
-<td width="50%">
-<a href="https://github.com/yosuf-dev/PROJECT2">
+<a href="https://github.com/yosuf-dev/Plotlist">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight"/>
 </a>
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
-<a href="https://github.com/yosuf-dev/PROJECT3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=PROJECT3&theme=tokyonight"/>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/yosuf-dev/PROJECT4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=PROJECT4&theme=tokyonight"/>
+<a href="https://github.com/yosuf-dev/CoffeeShop">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight"/>
 </a>
 </td>
 
