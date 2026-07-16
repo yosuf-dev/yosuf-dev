@@ -9,7 +9,6 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=yosuf-dev&style=for-the-badge&color=0ea5e9"/>
 <img src="https://img.shields.io/github/followers/yosuf-dev?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/yosuf-dev?style=for-the-badge&logo=github"/>
 </p>
 
 </div>
