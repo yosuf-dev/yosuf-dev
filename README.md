@@ -144,6 +144,8 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 
 </div>
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
