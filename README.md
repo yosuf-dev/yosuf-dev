@@ -134,6 +134,14 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yosuf-dev/yosuf-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
@@ -143,12 +151,3 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yosuf-dev/yosuf-dev/output/github-contribution-grid-snake.svg" />
-</p>
-
