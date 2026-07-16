@@ -144,3 +144,9 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 
 </div>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yosuf-dev/yosuf-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
