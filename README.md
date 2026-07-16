@@ -19,6 +19,7 @@
 # 💫 About Me
 
 I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on creating fast, modern and scalable web applications.
+I specialize in building modern full-stack web applications using React, Node.js, Express, and MySQL. I enjoy designing clean user interfaces, developing RESTful APIs, and continuously improving my skills through real-world projects.
 
 💡 I enjoy transforming ideas into real products with clean architecture and maintainable code.
 
@@ -32,6 +33,15 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 * 📚 Continuously learning new technologies
 
 > **"Great software is built one clean commit at a time."**
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable Full-Stack applications
+- ⚛️ Creating modern React interfaces
+- 🌐 Designing RESTful APIs with Node.js & Express
+- 📚 Exploring new web technologies and best practices
 
 ---
 
@@ -98,6 +108,44 @@ I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on 
 <img src="https://github-profile-trophy.vercel.app/?username=yosuf-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://github.com/yosuf-dev/PROJECT1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight"/>
+</a>
+</td>
+
+
+<td width="50%">
+<a href="https://github.com/yosuf-dev/PROJECT2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<a href="https://github.com/yosuf-dev/PROJECT3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=PROJECT3&theme=tokyonight"/>
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/yosuf-dev/PROJECT4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=PROJECT4&theme=tokyonight"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
