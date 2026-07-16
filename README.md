@@ -111,13 +111,13 @@ I specialize in building modern full-stack web applications using React, Node.js
 # 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yosuf-dev/Plotlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/yosuf-dev/Plotlist">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight&hide_border=true"/>
+</a>
 
-  <a href="https://github.com/yosuf-dev/CoffeeShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/yosuf-dev/CoffeeShop">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight&hide_border=true"/>
+</a>
 </p>
 
 ---
