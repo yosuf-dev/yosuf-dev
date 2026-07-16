@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **Yosuf Saleh Zadeh**
+# 👋 Hi, I'm Yosuf Saleh Zadeh
 
 ### 🚀 Full-Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Building+Modern+Web+Applications;Clean+Code+%E2%80%A2+REST+APIs+%E2%80%A2+UI%2FUX;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=yosuf-dev&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/yosuf-dev?style=for-the-badge&logo=github"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yosuf-saleh-zadeh-2a0b34421/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yosuf-dev)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosuf.saleh.zadeh@gmail.com)
 
 </div>
 
@@ -17,145 +16,114 @@
 
 # 💫 About Me
 
-I'm **Yosuf Saleh Zadeh**, a passionate **Full-Stack Web Developer** focused on creating fast, modern and scalable web applications.
-I specialize in building modern full-stack web applications using React, Node.js, Express, and MySQL. I enjoy designing clean user interfaces, developing RESTful APIs, and continuously improving my skills through real-world projects.
+I'm a passionate **Full-Stack Web Developer** from Iran who enjoys building modern, scalable, and user-friendly web applications.
 
-💡 I enjoy transforming ideas into real products with clean architecture and maintainable code.
+- ⚛️ Building responsive interfaces with React
+- 🚀 Developing RESTful APIs using Node.js & Express
+- 🗄️ Working with MySQL databases
+- 🎨 Creating modern UIs with Tailwind CSS
+- 📚 Always learning new technologies and best practices
 
-### 👨‍💻 What I Do
-
-* ⚛️ Build modern React applications
-* 🚀 Develop scalable REST APIs
-* 🎨 Create responsive and beautiful user interfaces
-* 🛠️ Design secure backend systems with Node.js & Express
-* 🗄️ Work with relational databases using MySQL
-* 📚 Continuously learning new technologies
-
-> **"Great software is built one clean commit at a time."**
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building scalable Full-Stack applications
-- ⚛️ Creating modern React interfaces
-- 🌐 Designing RESTful APIs with Node.js & Express
-- 📚 Exploring new web technologies and best practices
-
----
-
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 Current Focus
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yosuf-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosuf-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yosuf-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosuf-dev&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- 🚀 Building Full-Stack Applications
+- ⚛️ Improving React Skills
+- 🌐 Designing Clean REST APIs
+- 📚 Learning Advanced Backend Development
 
 ---
 
 # 🚀 Featured Projects
 
-### ☕ CoffeeShop
-Modern coffee shop website built with HTML, CSS and JavaScript.
+## ☕ CoffeeShop
 
-🔗 https://github.com/yosuf-dev/CoffeeShop
+A responsive coffee shop website with a modern UI and smooth user experience.
 
----
+**Tech Stack**
 
-# 🌐 Connect With Me
+- HTML
+- CSS
+- JavaScript
 
-<p>
+🔗 Repository
 
-<a href="https://github.com/yosuf-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yosuf-saleh-zadeh-2a0b34421/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yosuf.saleh.zadeh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+https://github.com/yosuf-dev/CoffeeShop
 
 ---
 
-# 💻 Currently Working With
+## 🎬 Plotlist
 
-```text
-⚛️ React
-🌐 REST API
-🟢 Node.js
-🚀 Express.js
-🗄️ MySQL
-🎨 Tailwind CSS
-```
+A movie web application for exploring and organizing movie information.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository
+
+https://github.com/yosuf-dev/Plotlist
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yosuf-dev/yosuf-dev/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosuf-dev&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/yosuf-saleh-zadeh-2a0b34421/
+
+- 📧 Email  
+  yosuf.saleh.zadeh@gmail.com
+
+- 🐙 GitHub  
+  https://github.com/yosuf-dev
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### *"Code. Build. Learn. Repeat."*
+*"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=120&section=footer"/>
 
 </div>
