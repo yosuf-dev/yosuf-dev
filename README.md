@@ -103,31 +103,22 @@ I specialize in building modern full-stack web applications using React, Node.js
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yosuf-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=yosuf-dev&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
+<p align="center">
+  <a href="https://github.com/yosuf-dev/Plotlist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight&hide_border=true" />
+  </a>
 
-<td width="50%">
-<a href="https://github.com/yosuf-dev/Plotlist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight"/>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/yosuf-dev/CoffeeShop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight"/>
-</a>
-</td>
-
-</tr>
-</table>
+  <a href="https://github.com/yosuf-dev/CoffeeShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
