@@ -100,25 +100,12 @@ I specialize in building modern full-stack web applications using React, Node.js
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yosuf-dev&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/yosuf-dev/Plotlist">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=Plotlist&theme=tokyonight&hide_border=true"/>
-</a>
+### ☕ CoffeeShop
+Modern coffee shop website built with HTML, CSS and JavaScript.
 
-<a href="https://github.com/yosuf-dev/CoffeeShop">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yosuf-dev&repo=CoffeeShop&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
+🔗 https://github.com/yosuf-dev/CoffeeShop
 
 ---
 
