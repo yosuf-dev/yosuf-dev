@@ -33,13 +33,13 @@ I'm a passionate **Full-Stack Web Developer** from Iran who enjoys building mode
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 ### Database
