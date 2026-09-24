@@ -136,6 +136,10 @@ A modern React e-commerce project focused on component architecture, routing, pr
 
 → https://github.com/yosuf-dev/shoesWebsite
 
+**Live**
+
+→ https://yosuf-dev.github.io/shoesWebsite
+
 ---
 
 ### `02` / gameJump
